@@ -1,0 +1,9 @@
+.poi {cursor: pointer;}
+
+.nav li:hover > ul {
+    display: none;
+}
+
+.nav ul li:hover ul { display: none; }
+
+.clickable {cursor: pointer;}

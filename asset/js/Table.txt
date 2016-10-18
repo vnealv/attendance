@@ -1,0 +1,17 @@
+<table id="dataTable1" class="table table-bordered table-condensed table-hover table-striped">
+                                    <thead>
+                                        <tr>
+                                            <th>Negeri</th>
+                                            <th>Parliamen</th>
+                                            <th>DUN</th>
+                                            <th>DM</th>
+                                            <th>Jenis</th>
+                                            <th>Kategori</th>
+                                            <th>Tajuk</th>
+                                            <th>Tarikh Masuk</th>
+                                            <th>keterangan</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody id="tableRepository">
+                                    </tbody>
+                                </table>
