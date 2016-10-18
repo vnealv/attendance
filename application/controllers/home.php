@@ -214,7 +214,7 @@ class Home extends CI_Controller {
                 $mail->Port = 465; // or 587
                 $mail->IsHTML(true);
                 $mail->Username = "nael@considerdigital.com";
-                $mail->Password = "Vv@4627257";
+                $mail->Password = "";
                 $mail->SetFrom("nael@considerdigital.com");
                 $mail->Subject = "Attendance";
                 $mail->Body = $body;
@@ -264,7 +264,7 @@ class Home extends CI_Controller {
         $mail->Port = 465; // or 587
         $mail->IsHTML(true);
         $mail->Username = "nael@considerdigital.com";
-        $mail->Password = "Vv@4627257";
+        $mail->Password = "";
         $mail->SetFrom("nael@considerdigital.com");
         $mail->Subject = "Test";
         $mail->Body = "hello";
